@@ -168,7 +168,7 @@ video {
 
 #title {
     opacity: 0;
-    animation: fadeInDown 1s ease-in-out forwards;
+    animation: fadeInDown 1.5s ease-in-out forwards;
 }
 
 @keyframes fadeInDown {
